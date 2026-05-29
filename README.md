@@ -22,7 +22,7 @@ L’objectif est d’analyser et comparer différents algorithmes de recherche p
 
 ---
 
-## 📊 Résultats expérimentaux
+##  Résultats expérimentaux
 | Algorithme | Nœuds générés | Nœuds visités | Temps (s) | Mémoire (KB) | Solution | Optimal |
 |------------|---------------|---------------|-----------|--------------|----------|---------|
 | DFS        | ~181 440      | ~181 440      | ~2.0      | ~18 000      | Non opt. | ✗ |
